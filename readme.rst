@@ -1,5 +1,5 @@
 ###################
-CodeIgniter
+CodeIgniter Login & Registration 
 ###################
 
 *******************
