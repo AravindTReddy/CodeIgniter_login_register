@@ -21,7 +21,7 @@
     $n=$this->input->post('name');
     $e=$this->input->post('email');
     $p=$this->input->post('pass');
-    
+
 
     $que=$this->db->query("select * from user_login where user_email='".$e."'");
     $row = $que->num_rows();
@@ -33,7 +33,7 @@
     {
     $que=$this->db->query("insert into user_login values('','$n','$e','$p')");
 
-    $data['error']="<h3 style='color:blue'>Your account created successfully</h3>";
+    $data['error']="<h3 style='color:blue'>Your account created successfully !!</h3>";
     }
 
     }

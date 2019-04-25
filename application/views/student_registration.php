@@ -27,7 +27,7 @@
 
   <tr>
     <td colspan="2" align="center">
- <input type="submit" name="register" value="Register Me"/></td>
+ <input type="submit" name="register" value="Register"/></td>
   </tr>
 </table>
 

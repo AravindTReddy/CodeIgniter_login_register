@@ -26,7 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  <input type="submit" name="login" value="Login"/></td>
  <tr>
  <td colspan="2" align="center">
-<input type="submit" name="register" value="Not a Member yet? Register Here"/></td>
+<input type="submit" name="register" value="Not a Member yet ? Register Here !!"/></td>
   </tr>
 </table>
 

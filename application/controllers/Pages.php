@@ -29,7 +29,7 @@ redirect('Pages/dashboard');
 }
 else
 {
-$data['error']="<h3 style='color:red'>Invalid login details</h3>";
+$data['error']="<h3 style='color:red'>Invalid login details !!</h3>";
 }
 }
 $this->load->view('login',@$data);
