@@ -12,6 +12,7 @@ registration form
 *******************
 Before inserting Students data inside database we will check student email id is already exists then show error message
 “User already exists” if not already exists then store information inside database.
+Latest commit handled image file upload through registration form.
 
 *******************
 Database
