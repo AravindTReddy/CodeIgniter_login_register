@@ -13,7 +13,7 @@ class Pages extends CI_Controller
  //loading via constructor or you can do this from autoload.php
  */
 
- public function login()
+ public function index()
 {
 
 if($this->input->post('login'))

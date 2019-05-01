@@ -23,11 +23,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   </tr>
    <tr>
     <td colspan="2" align="center">
- <input type="submit" name="login" value="Login"/></td>
+ <input type="submit" name="login" value="Login"/></td></tr>
  <tr>
  <td colspan="2" align="center">
 <input type="submit" name="register" value="Not a Member yet ? Register Here !!"/></td>
   </tr>
+
 </table>
 
  </form>
